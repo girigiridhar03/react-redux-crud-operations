@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "Giridhar",
+      "phone": "6302787849",
+      "email": "giridhargiri@gmail.com",
+      "age": "22",
+      "salary": "50000",
+      "id": "2aeb"
+    },
+    {
+      "username": "Sai Kiran",
+      "phone": "12121233123",
+      "email": "saikiran@gmail.com",
+      "age": "20",
+      "salary": "100000",
+      "id": "7464"
+    },
+    {
+      "username": "Lohith",
+      "phone": "6302787849",
+      "email": "lohith@gmail.com",
+      "age": "15",
+      "salary": "25000",
+      "id": "0bdb"
+    }
+  ]
+}
